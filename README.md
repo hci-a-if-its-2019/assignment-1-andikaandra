@@ -18,6 +18,8 @@
 As a means to present information, the goal has been achieved, but there are several parts of the website that need to be repaired, some users have difficulty finding and reading about scholarship information, due to the absence of lines that separate the column to the table, the boundary between two tables until the notification appears to download an unwanted file.
 ![integra](Assets/integra.jpg)
 <br>
+<hr>
+
 ## Instruction Script
   - Try to open main page of Integra Scholarship System Information
   - Try to change phone number while register scholarship
@@ -99,7 +101,9 @@ As a means to present information, the goal has been achieved, but there are sev
 
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](Assets/artifact.jpg)
+![Artifact Model and Annotation](Assets/artifact.jpg) <br>
+![Artifact Model and Annotation](Assets/integra2.jpg) <br>
+![Artifact Model and Annotation](Assets/integra3.jpg) <br>
 ### Flow Model
 ![Flow Model and Annotation](Assets/flow.jpg)
 ### Cultural Model
