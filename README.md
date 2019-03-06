@@ -12,6 +12,7 @@
   - [Do's and Don't's](#dos-and-donts)
 <br>
 ## Integra Scholarship System Information Description
+
 [Integra Scholarship System Information](https://integra.its.ac.id/) Description is part of integra which is a website that is used as a registration and information about scholarships for ITS students.
 As a means to present information, the goal has been achieved, but there are several parts of the website that need to be repaired, some users have difficulty finding and reading about scholarship information, due to the absence of lines that separate the column to the table, the boundary between two tables until the notification appears to download an unwanted file.
 ![integra](Assets/integra.jpg)
