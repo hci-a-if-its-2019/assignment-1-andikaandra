@@ -11,6 +11,7 @@
       - [Cultural Model](#cultural-model)
   - [Do's and Don't's](#dos-and-donts)
 <br>
+
 ## Integra Scholarship System Information Description
 
 [Integra Scholarship System Information](https://integra.its.ac.id/) Description is part of integra which is a website that is used as a registration and information about scholarships for ITS students.
