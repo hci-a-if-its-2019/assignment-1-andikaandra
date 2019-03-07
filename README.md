@@ -29,7 +29,6 @@ As a means to present information, the goal has been achieved, but there are sev
 ## User Description
   - The user is female 21 years old
   - The user is a student of Chemical Engineering in ITS
-  - Her name is Wardha Savitri
   - She rarely using Integra Scholarship System Information
   - She has litle experience about this website
 
@@ -110,4 +109,12 @@ As a means to present information, the goal has been achieved, but there are sev
 ![Cultural Model and Annotation](Assets/cultural.jpg)
 
 ## Do's and Don't's
-lorem ipsum sit dolor amet
+  - Do
+    - Give a border to the table
+    - Categorize scholarships by year
+    - Make all button functional or just remove it
+    - Remove all unnecessary popup
+    - Review the form to apply for scholarships, delete input data if unnecessary
+  - Dont
+    - Dont use small font size to provide the information
+
