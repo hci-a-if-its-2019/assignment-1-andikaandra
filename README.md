@@ -118,3 +118,13 @@ As a means to present information, the goal has been achieved, but there are sev
   - Dont
     - Dont use small font size to provide the information
 
+
+# Remarks
+> * Thanks for completing all the parts in this assignment.
+> * You should not expose your participant's name in any inquiry or usability reports.
+> * In my opinion, the case of `changing mobile number` is actually more about functionality, not UI problem.
+> * The breakdowns/barriers on the `Artifact Model` lack of reference number: Which line on the `Transcript` do the breakdowns refer to? Otherwise, the breakdowns have no evidences and they may be merely your own assumptions.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 5                | 0               | 84                 | 79,5       | 83,1  |
